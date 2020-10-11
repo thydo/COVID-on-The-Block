@@ -12,5 +12,3 @@ for n in res[1:]: #skip the first index and ignore the Nos
         kml.newpoint(name=n[2],coords=[(n[3],n[4])])
 
 kml.save("KmlClass.kml")  # Saving
-
-print(res)
