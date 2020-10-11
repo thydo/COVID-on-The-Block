@@ -12,7 +12,7 @@ Made (with love) by:
 - and Hwan Kim (JuanCarlos3)!
 
 # Introduction 
-Based on the prizes and awards, we used that to decide a theme for our project. It boiled down to doing something for the *common good* and to integrate it with *cloud technology* (AWS/Google Cloud). Taking an approach similar to how *carrd.co* sites were made (e.g. BLM, crises, social movements), resources were available, but not exactly map-able nor . People would often have to scroll through long docs, Twitter/Reddit/FB/(whatever you use) threads, or pages with links overflow, often resulting in harder-to-find resources that may be important or missed. 
+Based on the sunhakcks Devpost (https://sunhacks2020.devpost.com/), we used that to decide a theme for our project. It boiled down to doing something for the *common good* and to integrate it with *cloud technology* (AWS/Google Cloud). Taking an approach similar to how *carrd.co* sites were made (e.g. BLM, crises, social movements), resources were available, but not exactly map-able nor . People would often have to scroll through long docs, Twitter/Reddit/FB/(whatever you use) threads, or pages with links overflow, often resulting in harder-to-find resources that may be important or missed. 
 
 Enter: COVID on the Block. https://covidontheblock.org (This works for now: http://www.covidontheblock.com.s3-website-us-east-1.amazonaws.com/#) 
 
