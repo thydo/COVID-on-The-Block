@@ -29,6 +29,11 @@ Enter: [COVID on the Block.](https://covidontheblock.org) (This works for [now](
 # [Design](https://docs.google.com/document/d/1633ha0vAzMU699krRV_VgbRfDuGwovxLZ3KoVy5aeiw/edit?usp=sharing) 
 Keeping minimalism in mind, we put everything someone may need during this pandemic into one central location. We mapped every single place in Maricopa to help point people to the resources they need: *foodstuffs, shelter, medical supplies, testing centers, emergency rooms, unemployment, and even **local community resources!*** This way, anyone wanting to find something can go onto our website and directly find and get the help they want and/or need. 
 
+### Community Resources 
+
+# How we built it 
+We downloaded a HTML template and modified it to our categories. Each resource category is an image with an embed link which takes the user to the resource they need. The maps are then manually created and embedded for each category (when applicable). For the user input, we created a Google Form that collects user's resource(s) and preferred location via coordinates. The data is then converted into a XML file, which is then populated into Google Maps, embedded into the website. The website is then hosted on AWS, and we even got a domain name (coming soon)! 
+
 # Technologies Used 
 Frontend: HTML, CSS 
 
@@ -44,14 +49,14 @@ Our `Community Resources` tab can be improved upon by:
 - using something more practical for geolocation, such as addresses or zip codes. 
 - adding descriptions and contact information (like where/when users are available, how many resources they have, etc.) 
 - privacy and verification features (security reasons) 
-- community ratings 
+- community ratings for approval/disapproval
 
 Eventually, we hope to move our database to AWS's Aurora to scale and handle more user inputs from a custom-built form on our website. 
 
-For now, our data is populated for Maricopa County (AZ), but we plan to scale this and take it to the next level. We hope to populate helpful resources to people in not only the United States, but also the rest of the world! 
+For now, our data is populated for Maricopa County (AZ), but we plan to scale this and take it to the next level. We hope to populate helpful resources to people in not only the United States, but also the rest of the world! We want to have users add new places onto the map as well (will be approved), which will help map the plot. 
 
 We also want to add multiple languages to our website to accomodate everyone possible. We want to start with adding Spanish and Mandarin Chinese (the three most popular in the U.S.), and eventually, more languages for the rest of the world!  
 
 # Acknowledgements
 Thank you to sunhacks for hosting this hackathon virtually! The organizers, mentors, MLH, and everyone who planned this hackathon.  
-Last but not least, thanks Kevin from MLH! (does this qualify for swag ;)) ~and Red Bull for keeping me (achang-1) awake~  
+Last but not least, thanks Kevin from MLH! (does this qualify for swag ;)) ~and Red Bull for keeping me awake~  
