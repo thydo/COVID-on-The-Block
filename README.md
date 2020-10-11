@@ -1,7 +1,7 @@
 # COVID on the Block  
 Repository for the sunhacks https://sunhacks2020.devpost.com/ hackathon project (Oct. 9-11, 2020)! 
 
-Website: *covidontheblock.org*
+Website: https://covidontheblock.org
 
 Made (with love) by: 
 
@@ -13,8 +13,8 @@ and JuanCarlos3!
 
 # Introduction 
 Based on the prizes and awards, we used that to decide a theme for our project. 
-It boiled down to doing something for the common good and to integrate it with cloud technology (AWS/Google Cloud). 
-Taking an approach similar to how carrd.co sites were made (e.g. BLM, crises, social movements), resources were available, but never mappable. 
+It boiled down to doing something for the *common good* and to integrate it with *cloud technology* (AWS/Google Cloud). 
+Taking an approach similar to how *carrd.co* sites were made (e.g. BLM, crises, social movements), resources were available, but hardly mappable. 
 People would often have to scroll through docs, Twitter threads, or pages with lots of links, resulting in harder to find resources that may be important. 
 
 Enter: COVID on the Block. https://covidontheblock.org  
