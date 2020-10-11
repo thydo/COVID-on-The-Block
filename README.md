@@ -1,6 +1,8 @@
 # COVID on the Block  
 Repository for the sunhacks hackathon project (Oct. 9-11, 2020)! 
+
 Website: covidontheblock.org
+
 Made (with love) by: 
 
 Albert Chang (achang-1) 
