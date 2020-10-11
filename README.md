@@ -1,7 +1,7 @@
 # COVID on the Block  
 Repository for the sunhacks https://sunhacks2020.devpost.com/ hackathon project (Oct. 9-11, 2020)! 
 
-Website: https://covidontheblock.org (This works for now: http://www.covidontheblock.com.s3-website-us-east-1.amazonaws.com/#) 
+Website: https://covidontheblock.org (This works for now: http://dbllznd2wlj1v.cloudfront.net) 
 
 Made (with love) by: 
 
@@ -20,7 +20,7 @@ Made (with love) by:
 # Introduction 
 Based on the sunhakcks Devpost (https://sunhacks2020.devpost.com/), we used that to decide a theme for our project. It boiled down to doing something for the *common good* and to integrate it with *cloud technology* (AWS/Google Cloud). Taking an approach similar to how *carrd.co* sites were made (e.g. BLM, crises, social movements), resources were available, but not exactly map-able nor . People would often have to scroll through long docs, Twitter/Reddit/FB/(whatever you use) threads, or pages with links overflow, often resulting in harder-to-find resources that may be important or missed. 
 
-Enter: COVID on the Block. https://covidontheblock.org (This works for now: http://www.covidontheblock.com.s3-website-us-east-1.amazonaws.com/#) 
+Enter: COVID on the Block. https://covidontheblock.org (This works for now: http://dbllznd2wlj1v.cloudfront.net) 
 
 # Design 
 Keeping minimalism in mind, we put everything someone may need during this pandemic into one central location. We mapped every single place in Maricopa to help point people to the resources they need: *foodstuffs, shelter, medical supplies, testing centers, emergency rooms, unemployment, and even **local community resources!*** This way, anyone wanting to find something can go onto our website and directly find and get the help they want and/or need. 
