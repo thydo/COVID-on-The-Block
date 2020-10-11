@@ -1,13 +1,14 @@
 # COVID on the Block  
 Repository for the sunhacks https://sunhacks2020.devpost.com/ hackathon project (Oct. 9-11, 2020)! 
 
-Website: https://covidontheblock.org
+Website: https://covidontheblock.org (This works for now: http://www.covidontheblock.com.s3-website-us-east-1.amazonaws.com/#) 
 
 Made (with love) by: 
 
 - Albert Chang (achang-1) 
   - Front-End 
   - Created .csv to .kml script in Python
+  - Author of the README.me 
 
 - Thy Do (thydo)
   - Front-End
