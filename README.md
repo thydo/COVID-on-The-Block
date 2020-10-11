@@ -5,11 +5,11 @@ Website: https://covidontheblock.org
 
 Made (with love) by: 
 
-  Albert Chang (achang-1) 
+- Albert Chang (achang-1) 
 
-  Thy Do (thydo) 
+- Thy Do (thydo) 
 
-  and JuanCarlos3!
+- and Hwan Kim (JuanCarlos3)!
 
 # Introduction 
 Based on the prizes and awards, we used that to decide a theme for our project. 
