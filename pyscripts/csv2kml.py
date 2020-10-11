@@ -1,12 +1,9 @@
-""" sample how-to make a KML 
-    kml = simple.Kml()
-    Location_name = "lolz"
-    coordinate_1 = "18.432314"
-    coordinate_2 = "-33.90862"
-    kml.newpoint(name=Location_name, coords=[(coordinate_1,coordinate_2)])  # lon, lat, optional height
-    kml.save("temp.kml")
+""" 
+@author: achang-1 
 """
 
+# pip install csv 
+# pip install simplekml 
 import csv
 import simplekml
 
