@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>resources</name>
+        <Placemark id="3">
+            <name>Masks</name>
+            <Point id="2">
+                <coordinates>-32,28,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Water</name>
+            <Point id="4">
+                <coordinates>40.689217,-74.044479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Canned Food</name>
+            <Point id="6">
+                <coordinates>8.11245,-12.06748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>everything</name>
+            <Point id="8">
+                <coordinates>0,0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>fish </name>
+            <Point id="10">
+                <coordinates>180,180,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>shelter </name>
+            <Point id="12">
+                <coordinates>45.001234,-45.9018352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Hand sanitizer</name>
+            <Point id="14">
+                <coordinates>33.346622,-111.825075,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
