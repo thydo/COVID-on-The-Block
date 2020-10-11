@@ -6,10 +6,15 @@ Website: https://covidontheblock.org
 Made (with love) by: 
 
 - Albert Chang (achang-1) 
+  - Created .csv to .kml script in Python
+  - Front-End 
 
-- Thy Do (thydo) 
+- Thy Do (thydo)
+  - Front-End
+  - Python script to streamline Sheets to XML file. 
 
 - and Hwan Kim (JuanCarlos3)!
+  - AWS overlord 
 
 # Introduction 
 Based on the sunhakcks Devpost (https://sunhacks2020.devpost.com/), we used that to decide a theme for our project. It boiled down to doing something for the *common good* and to integrate it with *cloud technology* (AWS/Google Cloud). Taking an approach similar to how *carrd.co* sites were made (e.g. BLM, crises, social movements), resources were available, but not exactly map-able nor . People would often have to scroll through long docs, Twitter/Reddit/FB/(whatever you use) threads, or pages with links overflow, often resulting in harder-to-find resources that may be important or missed. 
@@ -24,18 +29,24 @@ Frontend: HTML, CSS
 
 Backend: Python (Community Resources) 
 
-Google - Sheets (our temporary database!), Drive API (to get access to Sheets), Maps API (to show our Community Resources), Forms (user input) 
+Google - Sheets (our temporary database!), Forms (user input), Drive API (to get access to Sheets), Maps API (to show our Community Resources)
 
 Amazon AWS: S3, Route 53, Cloudfront (website host), Lambda (automation for Sheets data entry)
 
 
-# Improvements 
+# Improvements and What's Next 
 Our `Community Resources` tab can be improved upon by: 
 - using something more practical for geolocation, such as addresses or zip codes. 
 - adding descriptions and contact information (like where/when users are available, how many resources they have, etc.) 
+- privacy and verification features (security reasons) 
+- community ratings 
 
 Eventually, we hope to move our database to AWS's Aurora to scale and handle more user inputs from a custom-built form on our website. 
 
+For now, our data is populated for Maricopa County (AZ), but we plan to scale this and take it to the next level. We hope to populate helpful resources to people in not only the United States, but also the rest of the world! 
+
+We also want to add multiple languages to our website to accomodate everyone possible. We want to start with adding Spanish and Mandarin Chinese (the three most popular in the U.S.), and eventually, more languages for the rest of the world!  
+
 # Acknowledgements
-Thank you to sunhacks for hosting this hackathon virtually! The organizers, mentors, MLH, and everyone who planned this hackathon for months. 
-Last but not least, thanks Kevin from MLH! (does this qualify for swag ;))   
+Thank you to sunhacks for hosting this hackathon virtually! The organizers, mentors, MLH, and everyone who planned this hackathon.  
+Last but not least, thanks Kevin from MLH! (does this qualify for swag ;)) ~and Red Bull for keeping me (achang-1) awake~  
