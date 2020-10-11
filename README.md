@@ -6,8 +6,8 @@ Website: https://covidontheblock.org
 Made (with love) by: 
 
 - Albert Chang (achang-1) 
-  - Created .csv to .kml script in Python
   - Front-End 
+  - Created .csv to .kml script in Python
 
 - Thy Do (thydo)
   - Front-End
