@@ -1,5 +1,6 @@
 # COVID on the Block  
 Repository for the sunhacks hackathon project (Oct. 9-11, 2020)! 
+Website: covidontheblock.org
 Made (with love) by: 
 
 Albert Chang (achang-1) 
@@ -16,10 +17,8 @@ People would often have to scroll through docs, Twitter threads, or pages with l
 
 Enter: COVID on the Block. covidontheblock.org 
 
+# Design 
 Keeping a minimalist design in mind, we put everything someone may need during this pandemic into one central location. We mapped every single place in Maricopa to help point people to the resources they need: foodstuffs, shelter, medical supplies, testing centers, emergency rooms, unemployment, and even local community resources! This way, anyone wanting to find something can go onto our website and directly find and get the help they want and/or need. 
-
-# Check us out! 
-URL: covidontheblock.org 
 
 # Acknowledgements
 Thank you to sunhacks for hosting this hackathon virtually! The organizers, mentors, MLH, and everyone who planned this hackathon for months. 
