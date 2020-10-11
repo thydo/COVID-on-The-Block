@@ -25,6 +25,8 @@ Enter: COVID on the Block. https://covidontheblock.org (This works for now: http
 # Design 
 Keeping minimalism in mind, we put everything someone may need during this pandemic into one central location. We mapped every single place in Maricopa to help point people to the resources they need: *foodstuffs, shelter, medical supplies, testing centers, emergency rooms, unemployment, and even **local community resources!*** This way, anyone wanting to find something can go onto our website and directly find and get the help they want and/or need. 
 
+Our planning: https://docs.google.com/document/d/1633ha0vAzMU699krRV_VgbRfDuGwovxLZ3KoVy5aeiw/edit?usp=sharing
+
 # Technologies Used 
 Frontend: HTML, CSS 
 
