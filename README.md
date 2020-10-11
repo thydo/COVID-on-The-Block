@@ -29,10 +29,11 @@ Enter: [COVID on the Block.](https://covidontheblock.org) (This works for [now](
 # [Design](https://docs.google.com/document/d/1633ha0vAzMU699krRV_VgbRfDuGwovxLZ3KoVy5aeiw/edit?usp=sharing) 
 Keeping minimalism in mind, we put everything someone may need during this pandemic into one central location. We mapped every single place in Maricopa to help point people to the resources they need: *foodstuffs, shelter, medical supplies, testing centers, emergency rooms, unemployment, and even **local community resources!*** This way, anyone wanting to find something can go onto our website and directly find and get the help they want and/or need. 
 
-### Community Resources 
+### How we built it 
+We downloaded a HTML template and modified it to our categories. Each resource category is an image with an embed link which takes the user to the resource they need. The maps are then manually created and embedded for each category (when applicable). The website is then hosted on AWS, and we even got a domain name (coming soon)! 
 
-# How we built it 
-We downloaded a HTML template and modified it to our categories. Each resource category is an image with an embed link which takes the user to the resource they need. The maps are then manually created and embedded for each category (when applicable). For the user input, we created a Google Form that collects user's resource(s) and preferred location via coordinates. The data is then converted into a XML file, which is then populated into Google Maps, embedded into the website. The website is then hosted on AWS, and we even got a domain name (coming soon)! 
+### Community Resources
+For the user input, we created a Google Form that collects user's resource(s) and preferred location via coordinates. The data is then converted into a XML file, which is then populated into Google Maps, embedded into the website. 
 
 # Technologies Used 
 Frontend: HTML, CSS 
